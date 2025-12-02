@@ -1,4 +1,21 @@
 {
-  "last_updated": 0,
-  "products": []
+  "last_updated": 1709551042123,
+  "products": [
+    {
+      "id": "1709550042123",
+      "name": "7 CM Chakra Flower",
+      "category_id": "CAT_SPARK",
+      "status": "Active",
+      "updated_time": 1709551042123,
+      "created_time": 1709550042123
+    },
+    {
+      "id": "1709552042123",
+      "name": "Mega Gift Box",
+      "category_id": "CAT_GIFT",
+      "status": "Active",
+      "updated_time": 1709552042123,
+      "created_time": 1709552042123
+    }
+  ]
 }
