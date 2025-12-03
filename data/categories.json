@@ -1,0 +1,47 @@
+{
+  "last_updated": 1709553000000,
+  "categories": [
+    {
+      "id": "CAT_SPARK",
+      "name": "Sparklers",
+      "short_name": "Sparklers",
+      "icon": "sparkler",
+      "description": "Colorful sparklers for all ages.",
+      "is_featured": true,
+      "sort_order": 1,
+      "status": "Active",
+      "is_deleted": false,
+      "updated_time": 1709553000000,
+      "created_time": 1709550000000,
+      "sub_categories": [
+        {
+          "id": "SUB_FLOWER",
+          "category_id": "CAT_SPARK",
+          "name": "Flower Pots",
+          "short_name": "Flower Pots",
+          "icon": "flower_pot",
+          "description": "Ground-based fountain crackers.",
+          "sort_order": 1,
+          "status": "Active",
+          "is_deleted": false,
+          "updated_time": 1709553000000,
+          "created_time": 1709550000000
+        }
+      ]
+    },
+    {
+      "id": "CAT_GIFT",
+      "name": "Gift Boxes",
+      "short_name": "Gift Boxes",
+      "icon": "gift_box",
+      "description": "Theme gift boxes with assorted crackers.",
+      "is_featured": true,
+      "sort_order": 2,
+      "status": "Active",
+      "is_deleted": false,
+      "updated_time": 1709553000000,
+      "created_time": 1709550000000,
+      "sub_categories": []
+    }
+  ]
+}
