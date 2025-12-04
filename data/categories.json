@@ -1,5 +1,5 @@
 {
-    "last_updated": 1764785271824,
+    "last_updated": 1764868283355,
     "categories": [
         {
             "id": "CAT_SPARK",
@@ -55,6 +55,20 @@
             "is_deleted": false,
             "updated_time": 1764785271824,
             "created_time": 1764785271824,
+            "sub_categories": []
+        },
+        {
+            "id": "Gowtham",
+            "name": "Gowtham",
+            "short_name": "GV",
+            "icon": null,
+            "description": "",
+            "is_featured": true,
+            "sort_order": 0,
+            "status": "Active",
+            "is_deleted": false,
+            "updated_time": 1764868283355,
+            "created_time": 1764868283355,
             "sub_categories": []
         }
     ]
