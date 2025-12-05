@@ -1,55 +1,33 @@
 {
-  "last_updated": 1709552042123,
-  "products": [
-    {
-      "id": "1709550042123",
-      "name": "7 CM Chakra Flower",
-      "short_name": "Chakra Flower",
-      "category_id": "CAT_SPARK",
-      "sub_category_id": "SUB_FLOWER",
-      "description": "Premium quality chakra for festive celebrations.",
-      "images": [
-        "https://drive.google.com/uc?id=AAA",
-        "https://drive.google.com/uc?id=BBB"
-      ],
-      "videos": [
-        "https://youtu.be/abc123"
-      ],
-      "variants": [
+    "last_updated": 1709552042123,
+    "products": [
         {
-          "variant_id": "V1709550042123-1",
-          "label": "Small Box",
-          "pack_size": "1 Box",
-          "weight": "100g",
-          "sku": "SKU-CHAKRA-S",
-          "mrp": 200.0,
-          "price": 150.0,
-          "discount": 25.0
-        },
-        {
-          "variant_id": "V1709550042123-2",
-          "label": "Big Box",
-          "pack_size": "2 Boxes",
-          "weight": "200g",
-          "sku": "SKU-CHAKRA-B",
-          "mrp": 400.0,
-          "price": 280.0,
-          "discount": 30.0
+            "id": "1709550042123",
+            "name": "7 CM Chakra Flower",
+            "short_name": "Chakra Flower",
+            "category_id": "CAT_SPARK",
+            "sub_category_id": "SUB_FLOWER",
+            "description": "Premium quality chakra for festive celebrations.",
+            "images": [
+                "https://drive.google.com/uc?id=AAA",
+                "https://drive.google.com/uc?id=BBB"
+            ],
+            "videos": [
+                "https://youtu.be/abc123"
+            ],
+            "mrp": 200.0,
+            "price": 150.0,
+            "discount": 25.0,
+            "weight": "100g",
+            "sku": "SKU-CHAKRA-S",
+            "combo_offer": "Buy 2 Get 1",
+            "is_featured": true,
+            "sort_order": 1,
+            "status": "Active",
+            "is_deleted": false,
+            "max_qty_per_order": 5,
+            "updated_time": 1709552042123,
+            "created_time": 1709550042123
         }
-      ],
-      "mrp": 200.0,
-      "price": 150.0,
-      "discount": 25.0,
-      "weight": "100g",
-      "sku": "SKU-CHAKRA-S",
-      "combo_offer": "Buy 2 Get 1",
-      "is_featured": true,
-      "sort_order": 1,
-      "status": "Active",
-      "is_deleted": false,
-      "max_qty_per_order": 5,
-      "updated_time": 1709552042123,
-      "created_time": 1709550042123
-    }
-  ]
+    ]
 }
