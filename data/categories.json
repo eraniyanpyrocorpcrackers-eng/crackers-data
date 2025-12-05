@@ -1,5 +1,5 @@
 {
-    "last_updated": 1764916097946,
+    "last_updated": 1764916472051,
     "categories": [
         {
             "id": "CAT_SPARK",
@@ -97,6 +97,20 @@
             "is_deleted": false,
             "updated_time": 1764916097946,
             "created_time": 1764916097946,
+            "sub_categories": []
+        },
+        {
+            "id": "Saranya",
+            "name": "Saranya",
+            "short_name": "Saranya",
+            "icon": null,
+            "description": "",
+            "is_featured": true,
+            "sort_order": 0,
+            "status": "Active",
+            "is_deleted": false,
+            "updated_time": 1764916472051,
+            "created_time": 1764916472051,
             "sub_categories": []
         }
     ]
