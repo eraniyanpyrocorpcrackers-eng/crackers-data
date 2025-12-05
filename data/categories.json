@@ -1,5 +1,5 @@
 {
-    "last_updated": 1764915498294,
+    "last_updated": 1764915878538,
     "categories": [
         {
             "id": "CAT_SPARK",
@@ -83,6 +83,20 @@
             "is_deleted": false,
             "updated_time": 1764915498294,
             "created_time": 1764915498294,
+            "sub_categories": []
+        },
+        {
+            "id": "Krishna",
+            "name": "Krishna",
+            "short_name": "Krishna",
+            "icon": null,
+            "description": "Krishna",
+            "is_featured": true,
+            "sort_order": 0,
+            "status": "Active",
+            "is_deleted": false,
+            "updated_time": 1764915878538,
+            "created_time": 1764915878538,
             "sub_categories": []
         }
     ]
