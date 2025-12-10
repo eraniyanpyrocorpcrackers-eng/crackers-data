@@ -67,6 +67,19 @@
                     "is_deleted": false,
                     "updated_time": 1765344059609,
                     "created_time": 1765344059609
+                },
+                {
+                    "id": "1765346432223",
+                    "category_id": "CAT_GIFT",
+                    "name": "1000",
+                    "short_name": "1000",
+                    "icon": null,
+                    "description": "1000",
+                    "sort_order": 0,
+                    "status": "Active",
+                    "is_deleted": false,
+                    "updated_time": 1765346432225,
+                    "created_time": 1765346432225
                 }
             ]
         },
