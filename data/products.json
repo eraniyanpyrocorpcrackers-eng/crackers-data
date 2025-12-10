@@ -1,5 +1,5 @@
 {
-    "last_updated": 1765348306673,
+    "last_updated": 1765348656498,
     "products": [
         {
             "id": "1709550042123",
@@ -51,6 +51,29 @@
             "max_qty_per_order": null,
             "updated_time": 1765348306673,
             "created_time": 1765348306672
+        },
+        {
+            "id": "1765348656497",
+            "name": "Eraniyan",
+            "short_name": "Eraniyan",
+            "category_id": "CAT_GIFT",
+            "sub_category_id": "1765344059608",
+            "description": "Eraniyan",
+            "images": [],
+            "videos": [],
+            "mrp": 50.0,
+            "price": 45.0,
+            "discount": 10.0,
+            "weight": "25",
+            "sku": "2",
+            "combo_offer": null,
+            "is_featured": true,
+            "sort_order": 0,
+            "status": "Active",
+            "is_deleted": false,
+            "max_qty_per_order": 5,
+            "updated_time": 1765348656498,
+            "created_time": 1765348656497
         }
     ]
 }
