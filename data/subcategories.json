@@ -1,0 +1,57 @@
+{
+    "last_updated": 1765346432225,
+    "sub_categories": [
+        {
+            "id": "SUB_FLOWER",
+            "category_id": "CAT_SPARK",
+            "name": "Flower Pots",
+            "short_name": "Flower Pots",
+            "icon": "flower_pot",
+            "description": "Ground-based fountain crackers.",
+            "sort_order": 1,
+            "status": "Active",
+            "is_deleted": false,
+            "updated_time": 1709553000000,
+            "created_time": 1709550000000
+        },
+        {
+            "id": "1764918959102",
+            "category_id": "CAT_SPARK",
+            "name": "Temp\t",
+            "short_name": "Temp",
+            "icon": null,
+            "description": "Temp",
+            "sort_order": 0,
+            "status": "Active",
+            "is_deleted": false,
+            "updated_time": 1764918959103,
+            "created_time": 1764918959103
+        },
+        {
+            "id": "1765344059608",
+            "category_id": "CAT_GIFT",
+            "name": "500 Rs",
+            "short_name": "500",
+            "icon": null,
+            "description": "500",
+            "sort_order": 0,
+            "status": "Active",
+            "is_deleted": false,
+            "updated_time": 1765344059609,
+            "created_time": 1765344059609
+        },
+        {
+            "id": "1765346432223",
+            "category_id": "CAT_GIFT",
+            "name": "1000",
+            "short_name": "1000",
+            "icon": null,
+            "description": "1000",
+            "sort_order": 0,
+            "status": "Active",
+            "is_deleted": false,
+            "updated_time": 1765346432225,
+            "created_time": 1765346432225
+        }
+    ]
+}
