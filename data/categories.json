@@ -54,7 +54,21 @@
             "is_deleted": false,
             "updated_time": 1709553000000,
             "created_time": 1709550000000,
-            "sub_categories": []
+            "sub_categories": [
+                {
+                    "id": "1765344059608",
+                    "category_id": "CAT_GIFT",
+                    "name": "500 Rs",
+                    "short_name": "500",
+                    "icon": null,
+                    "description": "500",
+                    "sort_order": 0,
+                    "status": "Active",
+                    "is_deleted": false,
+                    "updated_time": 1765344059609,
+                    "created_time": 1765344059609
+                }
+            ]
         },
         {
             "id": "Test Category",
