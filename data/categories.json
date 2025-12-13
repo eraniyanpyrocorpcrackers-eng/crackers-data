@@ -1,17 +1,17 @@
 {
-    "last_updated": 1765629512425,
+    "last_updated": 1765634232667,
     "categories": [
         {
             "id": "Chakkars",
             "name": "Chakkar",
             "short_name": "Diwali Special",
-            "icon": "https://drive.google.com/uc?id=1ZVfsYAnbph4ChCx7v_BDxxO8d2t96_EB",
+            "icon": "https://raw.githubusercontent.com/eraniyanpyrocorpcrackers-eng/crackers-data/main/Chakar.jpg\n",
             "description": "It ringers around the street",
             "is_featured": true,
             "sort_order": 1,
             "status": "Active",
             "is_deleted": false,
-            "updated_time": 1765629512425,
+            "updated_time": 1765634232667,
             "created_time": 1765628383645,
             "sub_categories": [
                 {
