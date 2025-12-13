@@ -1,17 +1,17 @@
 {
-    "last_updated": 1765629263407,
+    "last_updated": 1765629458791,
     "categories": [
         {
             "id": "Chakkars",
             "name": "Chakkar",
             "short_name": "Diwali Special",
-            "icon": "https://drive.google.com/uc?export=download&id=1ZVfsYAnbph4ChCx7v_BDxxO8d2t96_EB",
+            "icon": "https://drive.google.com/uc?id=1ZVfsYAnbph4ChCx7v_BDxxO8d2t96_EB\n",
             "description": "It ringers around the street",
             "is_featured": true,
             "sort_order": 1,
             "status": "Active",
             "is_deleted": false,
-            "updated_time": 1765629263407,
+            "updated_time": 1765629458791,
             "created_time": 1765628383645,
             "sub_categories": []
         }
