@@ -1,5 +1,5 @@
 {
-    "last_updated": 1765632079817,
+    "last_updated": 1765633791632,
     "products": [
         {
             "id": "1765632041689",
@@ -9,7 +9,7 @@
             "sub_category_id": null,
             "description": "Chakkar Special",
             "images": [
-                "https://drive.google.com/uc?id=1ZVfsYAnbph4ChCx7v_BDxxO8d2t96_EB"
+                "https://raw.githubusercontent.com/eraniyanpyrocorpcrackers-eng/crackers-data/main/chakkar.png"
             ],
             "videos": [],
             "mrp": 50.0,
@@ -24,7 +24,7 @@
             "status": "Active",
             "is_deleted": false,
             "max_qty_per_order": 100,
-            "updated_time": 1765632079817,
+            "updated_time": 1765633791632,
             "created_time": 1765632041689
         }
     ]
