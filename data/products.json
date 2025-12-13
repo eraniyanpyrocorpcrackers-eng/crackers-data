@@ -1,4 +1,31 @@
 {
-    "last_updated": 0,
-    "products": []
+    "last_updated": 1765632041693,
+    "products": [
+        {
+            "id": "1765632041689",
+            "name": "Small Chakkar",
+            "short_name": "Small Chakkar",
+            "category_id": "Chakkars",
+            "sub_category_id": null,
+            "description": "Chakkar Special",
+            "images": [
+                "https://drive.google.com/uc?id=1ZVfsYAnbph4ChCx7v_BDxxO8d2t96_EB"
+            ],
+            "videos": [],
+            "mrp": 50.0,
+            "price": 45.0,
+            "discount": 10.0,
+            "weight": "10",
+            "sku": "1",
+            "variants": [],
+            "combo_offer": null,
+            "is_featured": true,
+            "sort_order": 10,
+            "status": "Active",
+            "is_deleted": false,
+            "max_qty_per_order": 100,
+            "updated_time": 1765632041693,
+            "created_time": 1765632041689
+        }
+    ]
 }
