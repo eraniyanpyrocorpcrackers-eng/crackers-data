@@ -1,23 +1,23 @@
 {
-    "last_updated": 1765606536528,
+    "last_updated": 1765607982655,
     "variants": [
         {
-            "id": "1765606536525",
+            "id": "1765607982652",
             "productId": "1709550042123",
             "name": "temp",
-            "sku": "tmp",
+            "sku": "temp",
             "mrp": 50.0,
             "price": 45.0,
             "discountPercent": 10.0,
-            "stock": 50,
+            "stock": 500,
             "images": [
                 ""
             ],
             "notes": "",
             "status": "Active",
             "isDeleted": false,
-            "createdTime": 1765606536528,
-            "updatedTime": 1765606536528
+            "createdTime": 1765607982655,
+            "updatedTime": 1765607982655
         }
     ]
 }
