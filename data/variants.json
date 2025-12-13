@@ -1,23 +1,23 @@
 {
-    "last_updated": 1765607982655,
+    "last_updated": 1765611166775,
     "variants": [
         {
-            "id": "1765607982652",
+            "id": "1765611166774",
             "productId": "1709550042123",
-            "name": "temp",
-            "sku": "temp",
+            "name": "First",
+            "sku": "First",
             "mrp": 50.0,
             "price": 45.0,
             "discountPercent": 10.0,
-            "stock": 500,
+            "stock": 50,
             "images": [
                 ""
             ],
             "notes": "",
             "status": "Active",
             "isDeleted": false,
-            "createdTime": 1765607982655,
-            "updatedTime": 1765607982655
+            "createdTime": 1765611166775,
+            "updatedTime": 1765611166775
         }
     ]
 }
