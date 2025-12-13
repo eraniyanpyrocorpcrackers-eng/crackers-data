@@ -1,14 +1,14 @@
 {
-    "last_updated": 1765611166775,
+    "last_updated": 1765611858454,
     "variants": [
         {
-            "id": "1765611166774",
+            "id": "1765611858452",
             "productId": "1709550042123",
-            "name": "First",
-            "sku": "First",
+            "name": "Mitali",
+            "sku": "1",
             "mrp": 50.0,
-            "price": 45.0,
-            "discountPercent": 10.0,
+            "price": 50.0,
+            "discountPercent": 0.0,
             "stock": 50,
             "images": [
                 ""
@@ -16,8 +16,8 @@
             "notes": "",
             "status": "Active",
             "isDeleted": false,
-            "createdTime": 1765611166775,
-            "updatedTime": 1765611166775
+            "createdTime": 1765611858454,
+            "updatedTime": 1765611858454
         }
     ]
 }
