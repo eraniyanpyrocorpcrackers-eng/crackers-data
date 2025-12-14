@@ -1,4 +1,23 @@
 {
-    "last_updated": 0,
-    "variants": []
+    "last_updated": 1765723276867,
+    "variants": [
+        {
+            "variant_id": "1765723276864",
+            "productId": "1765632041689",
+            "name": "Deluxe Chakkar small",
+            "sku": "Chakkar small",
+            "mrp": 50.0,
+            "price": 45.0,
+            "discountPercent": 10.0,
+            "stock": 100,
+            "images": [
+                ""
+            ],
+            "notes": "",
+            "status": "Active",
+            "isDeleted": false,
+            "createdTime": 1765723276867,
+            "updatedTime": 1765723276867
+        }
+    ]
 }
