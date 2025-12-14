@@ -17,7 +17,26 @@
             "discount": 10.0,
             "weight": "10",
             "sku": "1",
-            "variants": [],
+            "variants": [
+                {
+                    "variant_id": "1765723276864",
+                    "productId": "1765632041689",
+                    "name": "Deluxe Chakkar small",
+                    "sku": "Chakkar small",
+                    "mrp": 50.0,
+                    "price": 45.0,
+                    "discountPercent": 10.0,
+                    "stock": 100,
+                    "images": [
+                        ""
+                    ],
+                    "notes": "",
+                    "status": "Active",
+                    "isDeleted": false,
+                    "createdTime": 1765723276867,
+                    "updatedTime": 1765723276867
+                }
+            ],
             "combo_offer": null,
             "is_featured": true,
             "sort_order": 10,
