@@ -41,7 +41,21 @@
             "is_deleted": false,
             "updated_time": 1765702411988,
             "created_time": 1765702305611,
-            "sub_categories": []
+            "sub_categories": [
+                {
+                    "id": "1765703065336",
+                    "category_id": "FlowerPots",
+                    "name": "Small",
+                    "short_name": "kutty",
+                    "icon": "https://docs.google.com/spreadsheets/d/17aTfwABOs--zKsAGgkLVqNak8-nfNDKqVfJTXVezT28/edit?gid=0#gid=0",
+                    "description": "Small attractive pots",
+                    "sort_order": 1,
+                    "status": "Active",
+                    "is_deleted": false,
+                    "updated_time": 1765703065338,
+                    "created_time": 1765703065338
+                }
+            ]
         }
     ]
 }
