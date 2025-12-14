@@ -1,5 +1,5 @@
 {
-    "last_updated": 1765719582931,
+    "last_updated": 1765719687122,
     "products": [
         {
             "id": "1765632041689",
@@ -26,6 +26,30 @@
             "max_qty_per_order": 100,
             "updated_time": 1765719582931,
             "created_time": 1765632041689
+        },
+        {
+            "id": "1765719687122",
+            "name": "FlowerBot Del",
+            "short_name": "Deluxe Flower",
+            "category_id": "FlowerPots",
+            "sub_category_id": "1765703065336",
+            "description": "Blistering Flower Pots",
+            "images": [],
+            "videos": [],
+            "mrp": 50.0,
+            "price": 45.0,
+            "discount": 10.0,
+            "weight": "5",
+            "sku": "",
+            "variants": [],
+            "combo_offer": null,
+            "is_featured": true,
+            "sort_order": 10,
+            "status": "Active",
+            "is_deleted": false,
+            "max_qty_per_order": null,
+            "updated_time": 1765719687122,
+            "created_time": 1765719687122
         }
     ]
 }
