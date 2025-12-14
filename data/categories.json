@@ -1,5 +1,5 @@
 {
-    "last_updated": 1765634797883,
+    "last_updated": 1765702305611,
     "categories": [
         {
             "id": "Chakkars",
@@ -28,6 +28,20 @@
                     "created_time": 1765630652765
                 }
             ]
+        },
+        {
+            "id": "FlowerPots",
+            "name": "FlowerPots",
+            "short_name": null,
+            "icon": "https://raw.githubusercontent.com/eraniyanpyrocorpcrackers-eng/crackers-data/main/Chakar.jpg",
+            "description": "Attractive and Colorful Fountains",
+            "is_featured": true,
+            "sort_order": 1,
+            "status": "Active",
+            "is_deleted": false,
+            "updated_time": 1765702305611,
+            "created_time": 1765702305611,
+            "sub_categories": []
         }
     ]
 }
