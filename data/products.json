@@ -1,5 +1,5 @@
 {
-    "last_updated": 1765720863015,
+    "last_updated": 1765721359147,
     "products": [
         {
             "id": "1765632041689",
@@ -24,7 +24,7 @@
             "status": "Active",
             "is_deleted": false,
             "max_qty_per_order": 100,
-            "updated_time": 1765720863015,
+            "updated_time": 1765721359147,
             "created_time": 1765632041689
         }
     ]
