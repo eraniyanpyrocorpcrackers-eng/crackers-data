@@ -1,5 +1,5 @@
 {
-    "last_updated": 1765721359147,
+    "last_updated": 1765721493300,
     "products": [
         {
             "id": "1765632041689",
@@ -26,6 +26,32 @@
             "max_qty_per_order": 100,
             "updated_time": 1765721359147,
             "created_time": 1765632041689
+        },
+        {
+            "id": "1765721493300",
+            "name": "FlowerBot Small",
+            "short_name": "FB Small",
+            "category_id": "FlowerPots",
+            "sub_category_id": "1765703065336",
+            "description": "Excellent Quality",
+            "images": [
+                "https://raw.githubusercontent.com/eraniyanpyrocorpcrackers-eng/crackers-data/main/data/flowerpot.jpg"
+            ],
+            "videos": [],
+            "mrp": 50.0,
+            "price": 45.0,
+            "discount": 10.0,
+            "weight": "10",
+            "sku": "1",
+            "variants": [],
+            "combo_offer": null,
+            "is_featured": true,
+            "sort_order": 0,
+            "status": "Active",
+            "is_deleted": false,
+            "max_qty_per_order": 10,
+            "updated_time": 1765721493300,
+            "created_time": 1765721493300
         }
     ]
 }
