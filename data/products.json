@@ -1,12 +1,12 @@
 {
-    "last_updated": 1765634063695,
+    "last_updated": 1765718417119,
     "products": [
         {
             "id": "1765632041689",
             "name": "Small Chakkar",
             "short_name": "Small Chakkar",
             "category_id": "Chakkars",
-            "sub_category_id": null,
+            "sub_category_id": "1765630652763",
             "description": "Chakkar Special",
             "images": [
                 "https://raw.githubusercontent.com/eraniyanpyrocorpcrackers-eng/crackers-data/main/Chakar.jpg"
@@ -24,7 +24,7 @@
             "status": "Active",
             "is_deleted": false,
             "max_qty_per_order": 100,
-            "updated_time": 1765634063695,
+            "updated_time": 1765718417119,
             "created_time": 1765632041689
         }
     ]
