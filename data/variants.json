@@ -1,5 +1,5 @@
 {
-    "last_updated": 1765788567946,
+    "last_updated": 1765789300373,
     "variants": [
         {
             "variant_id": "1765785446838",
@@ -90,6 +90,24 @@
             "is_deleted": false,
             "created_time": 1765788567946,
             "updated_time": 1765788567946
+        },
+        {
+            "variant_id": "1765789300372",
+            "product_id": "1765785128569",
+            "name": "Test3",
+            "sku": "test3",
+            "mrp": 10.0,
+            "price": 5.0,
+            "discount_percent": 50.0,
+            "stock": 10,
+            "images": [
+                ""
+            ],
+            "notes": "",
+            "status": "Active",
+            "is_deleted": false,
+            "created_time": 1765789300373,
+            "updated_time": 1765789300373
         }
     ]
 }
