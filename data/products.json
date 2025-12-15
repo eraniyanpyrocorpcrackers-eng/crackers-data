@@ -123,6 +123,24 @@
                     "is_deleted": false,
                     "created_time": 1765789300373,
                     "updated_time": 1765789300373
+                },
+                {
+                    "variant_id": "1765789657928",
+                    "product_id": "1765785128569",
+                    "name": "VariantTest",
+                    "sku": "VT",
+                    "mrp": 100.0,
+                    "price": 100.0,
+                    "discount_percent": 0.0,
+                    "stock": 100,
+                    "images": [
+                        ""
+                    ],
+                    "notes": "",
+                    "status": "Active",
+                    "is_deleted": false,
+                    "created_time": 1765789657930,
+                    "updated_time": 1765789657930
                 }
             ],
             "combo_offer": null,
