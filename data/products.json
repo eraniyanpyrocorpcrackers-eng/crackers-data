@@ -15,7 +15,26 @@
             "discount": 5.0,
             "weight": "25",
             "sku": "2",
-            "variants": [],
+            "variants": [
+                {
+                    "variant_id": "1765785446838",
+                    "product_id": "1765785128569",
+                    "name": "25 pack",
+                    "sku": "25",
+                    "mrp": 50.0,
+                    "price": 45.0,
+                    "discount_percent": 10.0,
+                    "stock": 500,
+                    "images": [
+                        ""
+                    ],
+                    "notes": "",
+                    "status": "Active",
+                    "is_deleted": false,
+                    "created_time": 1765785446841,
+                    "updated_time": 1765785446841
+                }
+            ],
             "combo_offer": null,
             "is_featured": true,
             "sort_order": 0,
