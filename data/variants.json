@@ -1,5 +1,5 @@
 {
-    "last_updated": 1765789657930,
+    "last_updated": 1765789873967,
     "variants": [
         {
             "variant_id": "1765785446838",
@@ -110,22 +110,22 @@
             "updated_time": 1765789300373
         },
         {
-            "variant_id": "1765789657928",
+            "variant_id": "1765789873965",
             "product_id": "1765785128569",
-            "name": "VariantTest",
-            "sku": "VT",
+            "name": "Error",
+            "sku": "err",
             "mrp": 100.0,
-            "price": 100.0,
-            "discount_percent": 0.0,
-            "stock": 100,
+            "price": 50.0,
+            "discount_percent": 25.0,
+            "stock": 25,
             "images": [
                 ""
             ],
             "notes": "",
             "status": "Active",
             "is_deleted": false,
-            "created_time": 1765789657930,
-            "updated_time": 1765789657930
+            "created_time": 1765789873967,
+            "updated_time": 1765789873967
         }
     ]
 }
