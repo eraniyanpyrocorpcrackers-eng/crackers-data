@@ -1,5 +1,5 @@
 {
-    "last_updated": 1765786901294,
+    "last_updated": 1765787261552,
     "variants": [
         {
             "variant_id": "1765785446838",
@@ -54,6 +54,24 @@
             "is_deleted": false,
             "created_time": 1765786901294,
             "updated_time": 1765786901294
+        },
+        {
+            "variant_id": "1765787261551",
+            "product_id": "1765785128569",
+            "name": "Test",
+            "sku": "test",
+            "mrp": 10000.0,
+            "price": 10000.0,
+            "discount_percent": 0.0,
+            "stock": 50,
+            "images": [
+                ""
+            ],
+            "notes": "",
+            "status": "Active",
+            "is_deleted": false,
+            "created_time": 1765787261552,
+            "updated_time": 1765787261552
         }
     ]
 }
