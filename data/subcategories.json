@@ -1,11 +1,11 @@
 {
-    "last_updated": 1765703065338,
+    "last_updated": 1765801421491,
     "sub_categories": [
         {
             "id": "1765630652763",
             "category_id": "Chakkars",
             "name": "Deluxe",
-            "short_name": null,
+            "short_name": "",
             "icon": "https://drive.google.com/uc?id=1ZVfsYAnbph4ChCx7v_BDxxO8d2t96_EB",
             "description": "Ultra size chakkars",
             "sort_order": 0,
@@ -26,6 +26,19 @@
             "is_deleted": false,
             "updated_time": 1765703065338,
             "created_time": 1765703065338
+        },
+        {
+            "id": "1765801421491",
+            "category_id": "Chakkars",
+            "name": "Medium",
+            "short_name": "ChakMed",
+            "icon": "",
+            "description": "ChakMed",
+            "sort_order": 0,
+            "status": "Active",
+            "is_deleted": false,
+            "updated_time": 1765801421491,
+            "created_time": 1765801421491
         }
     ]
 }
