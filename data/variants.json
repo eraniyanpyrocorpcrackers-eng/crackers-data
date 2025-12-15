@@ -1,5 +1,5 @@
 {
-    "last_updated": 1765789873967,
+    "last_updated": 1765790124055,
     "variants": [
         {
             "variant_id": "1765785446838",
@@ -126,6 +126,24 @@
             "is_deleted": false,
             "created_time": 1765789873967,
             "updated_time": 1765789873967
+        },
+        {
+            "variant_id": "1765790124053",
+            "product_id": "1765785128569",
+            "name": "a",
+            "sku": "a",
+            "mrp": 10.0,
+            "price": 8.0,
+            "discount_percent": 20.0,
+            "stock": 25,
+            "images": [
+                ""
+            ],
+            "notes": "",
+            "status": "Active",
+            "is_deleted": false,
+            "created_time": 1765790124055,
+            "updated_time": 1765790124055
         }
     ]
 }
