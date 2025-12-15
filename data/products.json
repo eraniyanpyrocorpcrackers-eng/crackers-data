@@ -87,6 +87,24 @@
                     "is_deleted": false,
                     "created_time": 1765787261552,
                     "updated_time": 1765787261552
+                },
+                {
+                    "variant_id": "1765788567946",
+                    "product_id": "1765785128569",
+                    "name": "Test2",
+                    "sku": "2345",
+                    "mrp": 100.0,
+                    "price": 100.0,
+                    "discount_percent": 0.0,
+                    "stock": 100,
+                    "images": [
+                        ""
+                    ],
+                    "notes": "",
+                    "status": "Active",
+                    "is_deleted": false,
+                    "created_time": 1765788567946,
+                    "updated_time": 1765788567946
                 }
             ],
             "combo_offer": null,
