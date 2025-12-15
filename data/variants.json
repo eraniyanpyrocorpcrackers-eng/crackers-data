@@ -1,5 +1,5 @@
 {
-    "last_updated": 1765786326927,
+    "last_updated": 1765786901294,
     "variants": [
         {
             "variant_id": "1765785446838",
@@ -36,6 +36,24 @@
             "is_deleted": false,
             "created_time": 1765786326927,
             "updated_time": 1765786326927
+        },
+        {
+            "variant_id": "1765786901292",
+            "product_id": "1765785128569",
+            "name": "1000 Pack",
+            "sku": "3",
+            "mrp": 1000.0,
+            "price": 1000.0,
+            "discount_percent": 0.0,
+            "stock": 1000,
+            "images": [
+                ""
+            ],
+            "notes": "",
+            "status": "Active",
+            "is_deleted": false,
+            "created_time": 1765786901294,
+            "updated_time": 1765786901294
         }
     ]
 }
