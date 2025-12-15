@@ -1,2 +1,29 @@
 {
+    "last_updated": 1765785128573,
+    "products": [
+        {
+            "id": "1765785128569",
+            "name": "Chakar Small",
+            "short_name": "Cha Sma",
+            "category_id": "Chakkars",
+            "sub_category_id": "1765630652763",
+            "description": "Excellent Quality",
+            "images": [],
+            "videos": [],
+            "mrp": 50.0,
+            "price": 45.0,
+            "discount": 5.0,
+            "weight": "25",
+            "sku": "2",
+            "variants": [],
+            "combo_offer": null,
+            "is_featured": true,
+            "sort_order": 0,
+            "status": "Active",
+            "is_deleted": false,
+            "max_qty_per_order": null,
+            "updated_time": 1765785128573,
+            "created_time": 1765785128569
+        }
+    ]
 }
