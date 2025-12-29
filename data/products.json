@@ -184,7 +184,26 @@
             "discount": 0.0,
             "weight": "50",
             "sku": "1001",
-            "variants": [],
+            "variants": [
+                {
+                    "variant_id": "1766983283410",
+                    "product_id": "1765790364948",
+                    "name": "Initial",
+                    "sku": "",
+                    "mrp": 58.0,
+                    "price": 50.0,
+                    "discount_percent": 10.0,
+                    "stock": 50,
+                    "images": [
+                        ""
+                    ],
+                    "notes": "",
+                    "status": "Active",
+                    "is_deleted": false,
+                    "created_time": 1766983283412,
+                    "updated_time": 1766983283412
+                }
+            ],
             "combo_offer": null,
             "is_featured": true,
             "sort_order": 0,
